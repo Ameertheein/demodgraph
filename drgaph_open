@@ -1,0 +1,8 @@
+
+dgraph.exe alpha --lru_mb 1024
+
+
+dgraph.exe zero
+
+
+dgraph-ratel.exe
